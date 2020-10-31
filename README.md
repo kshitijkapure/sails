@@ -2,6 +2,8 @@
 
 a [Sails v1](https://sailsjs.com) application
 
+running url: http://localhost:1337/articles/list
+
 
 ### Links
 
